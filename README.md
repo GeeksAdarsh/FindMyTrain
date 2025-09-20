@@ -41,3 +41,17 @@ git clone https://github.com/GeeksAdarsh/FindMyTrain.git
 
 
 ## Project Structure 📂
+
+
+Contributing 🤝
+
+Contributions are welcome!
+
+Open an issue for bug reports or feature requests
+
+Submit a pull request for new features or improvements
+
+License 📄
+
+This project is licensed under the MIT License. See the LICENSE
+ file for details.
