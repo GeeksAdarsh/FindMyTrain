@@ -1,46 +1,43 @@
-# FindMyTrain
+# FindMyTrain 🚆
 
-**FindMyTrain** is a Java-based console application that helps users check train schedules, platforms, and stations efficiently. This project demonstrates object-oriented programming concepts in Java, including classes, objects, and data management.
+**FindMyTrain** is a Java-based console application designed to help users efficiently check train schedules, stations, and platforms. Built using **Core Java** and **OOP principles**, this project demonstrates clean object-oriented design and modular programming.
 
-## Features
-- View train schedules
-- Check stations and platforms
-- Manage multiple trains
-- Simple console-based user interface
-- Object-oriented design for maintainability
+---
 
-## Technologies Used
-- Java (Core Java, OOPs)
-- IDE: IntelliJ IDEA or any Java IDE
-- Git for version control
+## Features ✨
+- ✅ View train schedules and timings  
+- ✅ Check station details  
+- ✅ Platform information for each train  
+- ✅ Manage multiple trains  
+- ✅ Console-based user interface (lightweight & fast)  
 
-## Project Structure
+---
+
+## Technologies Used 🛠️
+- **Java (Core & OOP concepts)**  
+- **IntelliJ IDEA** (or any Java IDE)  
+- **Git** for version control  
+
+---
+
 FindMyTrain/
 ├── src/
-│ ├── FindMyTrainApp.java
-│ ├── Platform.java
-│ ├── Schedule.java
-│ ├── Station.java
-│ ├── Train.java
-│ └── TrainSystem.java
+│ ├── FindMyTrainApp.java # Main application
+│ ├── Platform.java # Platform class
+│ ├── Schedule.java # Schedule management
+│ ├── Station.java # Station class
+│ ├── Train.java # Train class
+│ └── TrainSystem.java # Train system management
 ├── .gitignore
 └── FindMyTrain.iml
 
-bash
-Copy code
 
-## How to Run
-1. Clone the repository:
+---
 
+## How to Run ▶️
+1. **Clone the repository**  
+```bash
 git clone https://github.com/GeeksAdarsh/FindMyTrain.git
-Open the project in your Java IDE.
 
-Compile and run FindMyTrainApp.java.
 
-Follow the on-screen instructions to explore train schedules and platform information.
-
-Contributions are welcome! If you find bugs or want to add features, please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+## Project Structure 📂
